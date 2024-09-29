@@ -1,45 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>To-Do List Chat Bot with Dynamic Categorization and Timestamps</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            max-width: 800px;
-        }
-        h1, h2, h3, h4 {
-            color: #333;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-left: 3px solid #ccc;
-            overflow-x: auto;
-        }
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 4px;
-            border-radius: 4px;
-        }
-        ul, ol {
-            margin-left: 20px;
-        }
-        a {
-            color: #0066cc;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        hr {
-            border: 0;
-            height: 1px;
-            background: #ccc;
-            margin: 40px 0;
-        }
-    </style>
+
 </head>
 <body>
 
